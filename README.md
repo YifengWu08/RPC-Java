@@ -23,7 +23,7 @@
 
 Application-level service frameworks: ：Dubbo/Dubbox、Google gRPC、Spring Boot/Spring Cloud。
 Remote communication protocols：RMI、Socket、SOAP(HTTP XML)、REST(HTTP JSON)。
-Communication Frameworks：MINA 和 Netty
+Communication Frameworks：MINA & Netty
 
 
 
