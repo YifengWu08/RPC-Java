@@ -45,7 +45,7 @@ Communication Frameworks：MINA & Netty
 
 # Functionalities
 
-**part1**
+**Version 1**
 
 - Implement basic RPC calls
 - Dynamic proxy on the client side
@@ -56,7 +56,7 @@ Communication Frameworks：MINA & Netty
 
 
 
-**part2**
+**Version 2**
 
 - Custom Netty encoders, decoders, and serializers
 - Build local service cache on the client side
@@ -65,7 +65,7 @@ Communication Frameworks：MINA & Netty
   
 
 
-**part3**
+**Version 3**
 
 - Implement client-side load balancing
 - Implement client-side fault tolerance: retry on failure
