@@ -74,7 +74,7 @@ Communication Frameworks：MINA & Netty
 
 
 
-**part4**
+**Version 4**
 
 - Implement service rate limiting and graceful degradation
 - Implement circuit breaker
